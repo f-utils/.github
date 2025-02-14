@@ -26,6 +26,6 @@
 
 # Interacting
 
-1. General suggestions, questions, feature or lib request, and so on, could be added as issues in the [f-utils/.issues](https://github.com/f-utils/.issues).
+1. Suggestions, questions, feature or lib request, and so on, should be added as issues in [f-utils/.issues](https://github.com/f-utils/.issues).
 2. Lib specific issues should also be in [f-utils/.issues](https://github.com/f-utils/).
 3. Try also our [Coolab](https://discord.gg/waANUyCUGE) discord.
