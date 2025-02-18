@@ -28,4 +28,5 @@
 
 1. Suggestions, questions, feature or lib request, and so on, should be added as issues in [f-utils/.issues](https://github.com/f-utils/.issues).
 2. Lib specific issues should also be in [f-utils/.issues](https://github.com/f-utils/).
-3. Try also our [Coolab](https://discord.gg/waANUyCUGE) discord.
+3. Join our [Coolab](https://discord.gg/waANUyCUGE) discor
+4. See [CONTRIBUTING](https://github.com/f-utils/.github/blob/main/CONTRIBUTING.md)
